@@ -56,5 +56,5 @@ I used [React](https://reactjs.org/), [randomuser](https://randomuser.me/) and [
 
 ## 👀 Screenshot
 
-![Website Screenshot](./screenshot.png)
+![Website Screenshot](./screenshot.PNG)
 
